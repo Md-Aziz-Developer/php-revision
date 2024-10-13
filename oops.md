@@ -32,3 +32,6 @@
 
     ![code] (/ploymorphism_overriding_example.php)
 
+6. Interface - An interface define a contract (a set of methods) that a class must implement. It ensure that different classes follow a common structure. (In my language a inteface is a set of methods that a class must implements. means a class implement any interface that must have the function which interface have)
+
+    ![code] (/interface_example.php)
