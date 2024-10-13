@@ -23,4 +23,12 @@
     ![code] (/abstraction_example.php)
 
 4. Inheritance - Inheritance allows a class to inherit the properties and methods from another class. This helps reduce code deplicationa and enhance code reuseablilty.
+    
     ![code] (/inheritance_example.php)
+
+5. Ploymorphism - Polymorphism allows object to different types to be treated as objects of a common super type. Basically it involves methods overloading (different methods with the same name) and overriding (redefine a methods in a subclass).
+
+    * PHP doesn't directly support method overloading, but method overriding is possible.
+
+    ![code] (/ploymorphism_overriding_example.php)
+
