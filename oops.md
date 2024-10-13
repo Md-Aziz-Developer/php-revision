@@ -35,3 +35,7 @@
 6. Interface - An interface define a contract (a set of methods) that a class must implement. It ensure that different classes follow a common structure. (In my language a inteface is a set of methods that a class must implements. means a class implement any interface that must have the function which interface have)
 
     ![code] (/interface_example.php)
+
+7. Trait - Traits are a way to include methods in multiple classes without using inheritance. They allow for code reusability.
+
+    ![code] (/trait_example.php)
